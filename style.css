@@ -17,3 +17,13 @@ a.botao-vermais{
 a.botao-vermais:hover{
     background-color: #823ff6;
 }
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top: 50%;
+    }
+}
