@@ -18,6 +18,7 @@ a.botao-vermais:hover{
     background-color: #823ff6;
 }
 
+
 .posicao{
     top: 40%;
 }
@@ -26,4 +27,18 @@ a.botao-vermais:hover{
     .posicao{
         top: 50%;
     }
+  
+}
+
+.check-circle{
+    color: #DAFF01;
+}
+
+.modal-header{
+    background-color: black;
+}
+
+img.modalPhoto{
+    width: 370px;
+    height: 474px;
 }
